@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('/src/assets/fonts/Lato-Regular.ttf');
+}
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--vt-c-white);
+  --color-background-soft: var(--vt-c-white-soft);
+  --color-background-mute: var(--vt-c-white-mute);
+}
